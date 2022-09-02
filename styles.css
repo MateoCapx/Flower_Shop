@@ -1,6 +1,8 @@
 body{
   font-family:  'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+/* Start Styles for Top Header Section & Icons */
 .saleHeader{
     background-color:#677e52;
     color: white;
@@ -14,9 +16,46 @@ body{
     padding-left: 40px;
 
 }
+/* End Styles for Top Header Section & Icons */
+
+
+/* Style for text overlay on image */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+/* Style for text overlay on image End */
+
+#image_1:hover{
+    transform: scale(1.5);
+    transition: transform .2s;
+}
+
+#image_2{
+
+  height: 360px;
+}
+
+#image_3:hover{
+  
+
+}
 
 
 
+
+.aboveFooterSection h6{
+font-weight: bolder;
+}
+
+.aboveFooterSection p{
+    font-size: 15px;
+}
 
 
 
