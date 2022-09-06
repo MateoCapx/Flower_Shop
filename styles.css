@@ -19,6 +19,12 @@ body{
 /* End Styles for Top Header Section & Icons */
 
 
+
+
+
+
+
+
 /* Style for text overlay on image */
 .centered {
     position: absolute;
@@ -41,10 +47,10 @@ body{
   height: 360px;
 }
 
-#image_3:hover{
+/* #image_3:hover{
   
 
-}
+} */
 
 
 
